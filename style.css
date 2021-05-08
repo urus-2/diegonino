@@ -36,20 +36,20 @@ body {
   position: absolute;
   width: 50%;
   height: 100%;
-  background-image: url("./imgs/front-cover-half-1.jpg");
+  background-image: url("./imgs/Mitad_izquierda.png");
   background-size: 100% 100%;
 }
 
 .second-half {
   left: 50%;
-  background-image: url("./imgs/front-cover-half-2.jpg");
+  background-image: url("./imgs/Mitad_derecha2.png");
 }
 
 .front-cover:before,
 .front-cover:after {
   content: "";
   position: absolute;
-  background-image: url("./imgs/middle-cover.jpg");
+  background-image: url("./imgs/LOMO2.png");
   width: 65px;
   height: 100%;
   background-size: 100% 100%;
