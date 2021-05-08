@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="estilos.css">
     <script src="main.js" defer></script>
-    <title>Document</title>
+    <title>Inicio</title>
   </head>
   <body>
 <!--LIBRO-->
