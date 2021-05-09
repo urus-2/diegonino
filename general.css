@@ -1,0 +1,24 @@
+/* vamos a centrar el texto */
+.centrar {
+    padding-top: 6%;
+  text-align: center;
+}
+
+/* vamos a izquierda el texto */
+.izquierda {
+  text-align: left;
+  position: absolute;
+  left: 28%;
+}
+
+
+/* vamos a derecha el texto */
+.derecha {
+  text-align: right;
+}
+
+/* vamos a justificado el texto */
+.justificado {
+  text-align: justify;
+}
+

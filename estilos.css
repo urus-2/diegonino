@@ -119,3 +119,9 @@
 		font-size: 18px;
 	}
 	/*Fin de Menù lateral*/
+	.textoayuda{
+		color: #000;
+		position: absolute;
+		right: 200px;
+		font-size:small;
+	}

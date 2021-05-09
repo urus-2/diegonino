@@ -32,13 +32,21 @@
   <div class="container-menu">
     <div class="cont-menu">
       <nav>
-        <a href="#">Idea</a>
-        <a href="#">Referentes</a>
-        <a href="#">Proceso</a>
-        <a href="#">Proyecto</a>
-        <a href="#">Estatement</a>
+        <a href="index.php">Inicio</a>
+        <a href="concepto.php">Concepto / Idea</a>
+        <a href="referentes.php">Referentes</a>
+        <a href="proceso.php">Proceso</a>
+        <a href="publicacion.php">Publicación</a>
+        <a href="estatement.php">Statement</a>
       </nav>
       <label for="btn-menu">✖️</label>
     </div>
+  </div>
+  <div class="textoayuda">
+    Al pasar el cursor sobre la imagen <br>
+    hacia los bordes esta se mueve.<br><br>
+    Al dar click sobre la misma <br>
+    se ve la contraportada.
+  </div>
   </body>
 </html>

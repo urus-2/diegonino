@@ -4,20 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="general.css" />
     <link rel="stylesheet" href="estilos.css">
     <script src="main.js" defer></script>
-    <title>Inicio</title>
+    <title>Concepto / Idea</title>
   </head>
   <body>
-<!--LIBRO-->
-    <div class="book">
-      <div class="front-cover">
-        <div class="first-half"></div>
-        <div class="second-half"></div>
-      </div>
-      <div class="back-cover"></div>
-    </div>
 <!--MENÚ-->
     <header class="header">
       <div class="container">
@@ -42,11 +34,25 @@
       <label for="btn-menu">✖️</label>
     </div>
   </div>
-  <div class="textoayuda">
-    Al pasar el cursor sobre la imagen <br>
-    hacia los bordes esta se mueve.<br><br>
-    Al dar click sobre la misma <br>
-    se ve la contraportada.
+  <div class="centrar">
+      <h1>Concepto </h1><br><br>
+      <div class="izquierda">
+        <p>Entender que las emociones son un proceso, una especie particular<br>
+            de una evaluación automática influenciada por nuestra evolución<br>
+            personal y nuestro pasado;<br><br>
+            Donde nosotros sentimos que algo importante<br>
+            para nuestro bienestar está sucediendo y un conjunto de<br>
+            cambios psicológicos y comportamientos <br>
+            emocionales empiezan a lidiar con la situación.<br>
+            </p>
+      </div>
+      <br><br><br><br><br><br><br><br><br><br><br>
+      <h1>Idea</h1><br><br>
+      <div class="izquierda">
+        <p>Darles una imagen a todas aquellas emociones y<br>
+            sentimientos que afectan al hombre.            
+            </p>
+      </div>
   </div>
   </body>
 </html>
