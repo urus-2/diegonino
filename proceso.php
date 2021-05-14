@@ -44,16 +44,14 @@
                  descripciones de las emociones desde objetos, formas, colores y demás posibles imágenes <br>
                  que existen en nuestra realidad. <br><br>
              2.  Descripciones relacionadas a tres emociones específicas, que son las que se trabajaron en <br>
-                 este proyecto, la Tristeza, el Miedo y la Alegría.<br><br>
+                 este proyecto, la tristeza y el Miedo.<br><br>
              3.  Se empiezan a hacer relaciones entre las descripciones para encontrar similitudes.<br><br>
              4.  Se construyen imágenes de acuerdo con las descripciones.<br><br><br>
       </div>
       <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <h1>Ejemplo</h1><br><br>
       <div class="izquierda" style="font-size: small;">
-            <p>•	Alegría: Exaltación. Positivo. Una sonrisa, una risa, ruborizarse, cosquilleo.<br>
-                    Efímero. Dientes, movimiento, calor, energía. Cambio. Rojo.<br><br>
-               •	Tristeza: Nada, lúgubre, pesimismo, lento, vacío. Negativo. Lágrimas, dolor, frio. <br>
+            <p>•	Tristeza: Nada, lúgubre, pesimismo, lento, vacío. Negativo. Lágrimas, dolor, frio. <br>
                     Larga. Azul.<br><br>
                •	Miedo: Sudoroso, movimiento, apresurado, lento, congelado. Desconocido, conocido.<br>
                     Preocupación, escalofrió. Siempre. Vacío. Profundo, pequeño, gigante. Negro.

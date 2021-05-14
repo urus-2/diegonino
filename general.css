@@ -22,3 +22,22 @@
   text-align: justify;
 }
 
+div#container
+{
+    width:1200px;
+    height:488px;
+    margin-left: 150px;
+    overflow:hidden;     /* if you don't want a scrollbar, set to hidden */
+    overflow-x:hidden;   /* hides horizontal scrollbar on newer browsers */
+
+}
+
+iframe#embed
+{
+    width:900px;       /* set this to approximate width of entire page you're embedding */
+    height:8000px;      /* determines where the bottom of the page cuts off */
+    margin-left:-183px; /* clipping left side of page */
+    margin-top:-180px;  /* clipping top of page */
+    overflow:hidden;
+
+}
